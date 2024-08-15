@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+@media screen and (min-width:992px) {
+    #fundo{
+        background-repeat: no-repeat;
+        background-size: cover;
+        width: 100%;
+        position: absolute;
+
+    }
+}
